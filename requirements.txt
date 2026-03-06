@@ -1,0 +1,11 @@
+numpy==1.26.4
+opencv-python
+tensorboardX
+easydict
+scipy
+einops
+h5py
+timm
+tqdm
+path
+loguru
